@@ -6,13 +6,6 @@
 ## 🎯 Project Overview
 This Power BI dashboard provides an interactive and comprehensive analysis of retail sales performance, order quantities, and target achievements across multiple branches and categories. It enables decision-makers to track year-to-date (YTD) trends, analyze product demand, and monitor goal progress in real time.
 
-## 📈 Key Metrics & Highlights
-* **Total Sales:** $662.3M
-* **Total Units Sold (Quantity):** 957K units
-* **Average Daily Quantity:** 2K units/day
-* **Average Items per Invoice:** 2 items
-* **Goal Target Achievement:** **453,016** vs. Goal: 364,273 (**+24.36%** performance boost)
-
 ## 🛠️ Key Technical Skills & DAX Applied
 * **Power Query Data Transformation:** Standardized branch names (e.g., Maskan, Abbas, Mohandseen, E-commerce channels like NOON & JUMIA), cleaned item descriptions, and prepped relational structures for seamless slicing.
 * **DAX Calculations:**
