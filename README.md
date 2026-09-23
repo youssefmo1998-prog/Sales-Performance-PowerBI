@@ -13,8 +13,3 @@ This Power BI dashboard provides an interactive and comprehensive analysis of re
   * **Goal Tracking Metrics:** Created dynamic logic to compare actual volume against set goals and determine percentage variance (`+24.36%`).
   * **Time Intelligence Analysis:** Built YTD growth curves comparing current performance against prior year monthly trends (Jan – Dec).
   * **Category & Branch Distributions:** Calculated proportional shares (`% of Total Quantity`) across physical stores and online marketplaces.
-
-## 💡 Key Business Insights
-* **Top Branches:** **Maskan**, **Abbas**, and **WestElbalad** lead total volume contribution across physical locations.
-* **Top Product Categories:** **Jeans**, **Summer**, and **Basic** lines are the primary revenue drivers.
-* **Omnichannel Performance:** Tracks sales performance across offline retail branches as well as online e-commerce platforms (NOON, Amazon, JUMIA, and official Website).
